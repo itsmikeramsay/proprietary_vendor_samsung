@@ -33,6 +33,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hltevzw/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
     vendor/samsung/hltevzw/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
     vendor/samsung/hltevzw/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
+    vendor/samsung/hltevzw/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd:system/vendor/firmware/bcm2079xB4_firmware.ncd \
+    vendor/samsung/hltevzw/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd:system/vendor/firmware/bcm2079xB4_pre_firmware.ncd \
     vendor/samsung/hltevzw/proprietary/bin/efsks:system/bin/efsks \
     vendor/samsung/hltevzw/proprietary/bin/ks:system/bin/ks \
     vendor/samsung/hltevzw/proprietary/bin/qcks:system/bin/qcks \
