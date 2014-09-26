@@ -19,7 +19,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hltetmo/proprietary/vendor/firmware/libpn547_fw_pku.so:system/vendor/firmware/libpn547_fw_pku.so \
     vendor/samsung/hltetmo/proprietary/vendor/firmware/libpn547_fw_platform.so:system/vendor/firmware/libpn547_fw_platform.so \
     vendor/samsung/hltetmo/proprietary/vendor/firmware/BT_FW_VER_BCM4339_003.001.009.0055.0256_ORC_H-TMO.hcd:system/vendor/firmware/BT_FW_VER_BCM4339_003.001.009.0055.0256_ORC_H-TMO.hcd \
-    vendor/samsung/hltetmo/proprietary/lib/hw/nfc_nci.msm8974.so:system/lib/hw/nfc_nci.msm8974.so \
+    vendor/samsung/hltetmo/proprietary/lib/hw/nfc.MSM8974.so:system/lib/hw/nfc.MSM8974.so \
+    vendor/samsung/hltetmo/proprietary/lib/libnfc.so:system/lib/libnfc.so \
+    vendor/samsung/hltetmo/proprietary/lib/libnfc_jni.so:system/lib/libnfc_jni.so \
+    vendor/samsung/hltetmo/proprietary/lib/libnfc_log.so:system/lib/libnfc_log.so \
+    vendor/samsung/hltetmo/proprietary/lib/libnfc_ndef.so:system/lib/libnfc_ndef.so \
     vendor/samsung/hltetmo/proprietary/lib/libsensirion_h_4.so:system/lib/libsensirion_h_4.so \
     vendor/samsung/hltetmo/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
     vendor/samsung/hltetmo/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
