@@ -20,7 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hltetmo/proprietary/vendor/firmware/libpn547_fw_platform.so:system/vendor/firmware/libpn547_fw_platform.so \
     vendor/samsung/hltetmo/proprietary/vendor/firmware/BT_FW_VER_BCM4339_003.001.009.0055.0256_ORC_H-TMO.hcd:system/vendor/firmware/BT_FW_VER_BCM4339_003.001.009.0055.0256_ORC_H-TMO.hcd \
     vendor/samsung/hltetmo/proprietary/lib/hw/nfc_nci.msm8974.so:system/lib/hw/nfc_nci.msm8974.so \
-    vendor/samsung/hltetmo/proprietary/lib/hw/sensors.msm8974.so:system/lib/hw/sensors.msm8974.so \
+    vendor/samsung/hltetmo/proprietary/lib/libsensirion_h_4.so:system/lib/libsensirion_h_4.so \
     vendor/samsung/hltetmo/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
     vendor/samsung/hltetmo/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/samsung/hltetmo/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
